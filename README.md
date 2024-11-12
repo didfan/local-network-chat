@@ -1,4 +1,5 @@
 first start chatServer and then chatUser where you will need to enter the ip and the port.
+
 default ip: 127.0.0.1
 default port: 8080
 
